@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_172" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="by.bsuir.autobase.entity.Car">
+    <void property="bodyType">
+     <object class="java.lang.Enum" method="valueOf">
+      <class>by.bsuir.autobase.entity.BodyType</class>
+      <string>CONVERTIBLE</string>
+     </object>
+    </void>
+    <void property="doorCount">
+     <int>1</int>
+    </void>
+    <void property="fuelConsumption">
+     <double>1.0</double>
+    </void>
+    <void property="fuelType">
+     <object class="java.lang.Enum" method="valueOf">
+      <class>by.bsuir.autobase.entity.FuelType</class>
+      <string>DIESEL</string>
+     </object>
+    </void>
+    <void property="make">
+     <string>1</string>
+    </void>
+    <void property="manager">
+     <object class="by.bsuir.autobase.entity.Manager">
+      <void property="name">
+       <string></string>
+      </void>
+      <void property="password">
+       <string></string>
+      </void>
+     </object>
+    </void>
+    <void property="model">
+     <string>1</string>
+    </void>
+    <void property="power">
+     <int>1</int>
+    </void>
+    <void property="price">
+     <double>1.0</double>
+    </void>
+    <void property="seatCount">
+     <int>1</int>
+    </void>
+    <void property="year">
+     <int>1</int>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>
