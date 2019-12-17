@@ -1,4 +1,4 @@
-package by.bsuir.Serialize;
+package by.bsuir.serialize;
 
 import org.xml.sax.SAXException;
 

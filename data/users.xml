@@ -71,5 +71,25 @@
     </void>
    </object>
   </void>
+  <void method="add">
+   <object class="by.bsuir.autobase.entity.Manager">
+    <void property="name">
+     <string>sasd</string>
+    </void>
+    <void property="password">
+     <string>aqe</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="by.bsuir.autobase.entity.Manager">
+    <void property="name">
+     <string>qeq</string>
+    </void>
+    <void property="password">
+     <string>qeq</string>
+    </void>
+   </object>
+  </void>
  </object>
 </java>

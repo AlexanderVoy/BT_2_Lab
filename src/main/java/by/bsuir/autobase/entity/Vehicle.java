@@ -13,7 +13,7 @@ import java.util.Comparator;
 /**
  * The type Vehicle.
  */
-public abstract class Vehicle implements java.io.Serializable{
+public class Vehicle implements java.io.Serializable{
 
     private String make;
     private String model;

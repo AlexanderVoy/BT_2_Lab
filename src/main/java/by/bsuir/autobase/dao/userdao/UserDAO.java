@@ -1,8 +1,8 @@
-package by.bsuir.autobase.dao.UserDao;
+package by.bsuir.autobase.dao.userdao;
 
 import by.bsuir.autobase.entity.AutoBase;
 import by.bsuir.autobase.entity.User;
-import by.bsuir.Serialize.Serialize;
+import by.bsuir.serialize.Serialize;
 
 import java.io.*;
 import java.util.ArrayList;

@@ -1,4 +1,4 @@
-package by.bsuir.autobase.dao.VehicleDao;
+package by.bsuir.autobase.dao.vehicledao;
 
 import java.util.ArrayList;
 import by.bsuir.autobase.entity.Vehicle;

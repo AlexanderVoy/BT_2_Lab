@@ -1,8 +1,8 @@
-package by.bsuir.autobase.dao.PurchaseDao;
+package by.bsuir.autobase.dao.purchasedao;
 
 import by.bsuir.autobase.entity.AutoBase;
 import by.bsuir.autobase.entity.Purchase;
-import by.bsuir.Serialize.Serialize;
+import by.bsuir.serialize.Serialize;
 
 import java.io.*;
 import java.util.ArrayList;

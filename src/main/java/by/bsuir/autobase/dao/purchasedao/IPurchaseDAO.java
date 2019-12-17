@@ -1,4 +1,4 @@
-package by.bsuir.autobase.dao.PurchaseDao;
+package by.bsuir.autobase.dao.purchasedao;
 
 import by.bsuir.autobase.entity.Purchase;
 

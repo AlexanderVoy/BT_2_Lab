@@ -1,15 +1,13 @@
-package by.bsuir.autobase.dao.VehicleDao;
+package by.bsuir.autobase.dao.vehicledao;
 
+import by.bsuir.autobase.dbmigrate.DBController;
 import by.bsuir.autobase.entity.AutoBase;
 import by.bsuir.autobase.entity.Vehicle;
 import by.bsuir.autobase.dao.DaoFactory;
-import by.bsuir.Serialize.Serialize;
+import by.bsuir.serialize.Serialize;
 
 import java.io.*;
-import java.sql.SQLException;
 import java.util.ArrayList;
-
-import by.bsuir.DBController;
 
 /**
  * The type Vehicle dao.

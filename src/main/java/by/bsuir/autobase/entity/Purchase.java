@@ -89,7 +89,23 @@ public class Purchase implements java.io.Serializable{
 
         Controller.printListRequest(purchases);
     }
+    /*@Override
+    public boolean equals(Object o) {
+        if (this == o) {
+            return true;
+        }
+        if (o == null || getClass() != o.getClass()) {
+            return false;
+        }
 
+        Purchase that = (Purchase) o;
+
+        if ( != that.deceased) {
+            return false;
+        }
+
+        return !(name != null ? !name.equals(that.name) : that.name != null);
+    }*/
     @Override
     public String toString() {
         return  "\n Vehicle:" + vehicle.toString() +

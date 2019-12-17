@@ -1,4 +1,4 @@
-package by.bsuir.Serialize;
+package by.bsuir.serialize;
 
 import java.util.ArrayList;
 

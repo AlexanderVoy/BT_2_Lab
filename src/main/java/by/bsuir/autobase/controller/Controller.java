@@ -6,10 +6,6 @@ import by.bsuir.autobase.entity.Manager;
 import by.bsuir.autobase.dao.DaoFactory;
 import by.bsuir.autobase.presentation.View;
 
-import java.sql.Connection;
-import java.sql.DriverManager;
-import java.sql.PreparedStatement;
-import java.sql.SQLException;
 import java.util.ArrayList;
 
 

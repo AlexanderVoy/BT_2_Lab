@@ -1,8 +1,8 @@
 package by.bsuir.autobase.entity;
 
-import by.bsuir.Compare.CompareByMake;
-import by.bsuir.Compare.CompareByModel;
-import by.bsuir.Compare.CompareByYear;
+import by.bsuir.сompare.CompareByMake;
+import by.bsuir.сompare.CompareByModel;
+import by.bsuir.сompare.CompareByYear;
 import by.bsuir.autobase.controller.Controller;
 import by.bsuir.autobase.dao.DaoFactory;
 import by.bsuir.autobase.presentation.View;

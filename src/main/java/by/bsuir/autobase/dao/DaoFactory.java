@@ -1,8 +1,8 @@
 package by.bsuir.autobase.dao;
 
-import by.bsuir.autobase.dao.PurchaseDao.PurchaseDAO;
-import by.bsuir.autobase.dao.UserDao.UserDAO;
-import by.bsuir.autobase.dao.VehicleDao.VehicleDAO;
+import by.bsuir.autobase.dao.purchasedao.PurchaseDAO;
+import by.bsuir.autobase.dao.userdao.UserDAO;
+import by.bsuir.autobase.dao.vehicledao.VehicleDAO;
 
 /**
  * The type Dao factory.

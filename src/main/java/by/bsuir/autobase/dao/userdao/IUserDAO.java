@@ -1,4 +1,4 @@
-package by.bsuir.autobase.dao.UserDao;
+package by.bsuir.autobase.dao.userdao;
 
 import by.bsuir.autobase.entity.User;
 

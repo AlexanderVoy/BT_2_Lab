@@ -1,4 +1,4 @@
-package by.bsuir.Compare;
+package by.bsuir.сompare;
 
 import by.bsuir.autobase.entity.Vehicle;
 

@@ -4,7 +4,7 @@
   <void method="add">
    <object class="by.bsuir.autobase.entity.Car">
     <void property="bodyType">
-     <object class="java.lang.Enum" method="valueOf">
+     <object class="java.lang.Enum" id="BodyType0" method="valueOf">
       <class>by.bsuir.autobase.entity.BodyType</class>
       <string>CONVERTIBLE</string>
      </object>
@@ -31,6 +31,584 @@
       </void>
       <void property="password">
        <string></string>
+      </void>
+     </object>
+    </void>
+    <void property="model">
+     <string>1</string>
+    </void>
+    <void property="power">
+     <int>1</int>
+    </void>
+    <void property="price">
+     <double>1.0</double>
+    </void>
+    <void property="seatCount">
+     <int>1</int>
+    </void>
+    <void property="year">
+     <int>1</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="by.bsuir.autobase.entity.Car">
+    <void property="bodyType">
+     <object idref="BodyType0"/>
+    </void>
+    <void property="doorCount">
+     <int>1</int>
+    </void>
+    <void property="fuelConsumption">
+     <double>1.0</double>
+    </void>
+    <void property="fuelType">
+     <object class="java.lang.Enum" id="FuelType0" method="valueOf">
+      <class>by.bsuir.autobase.entity.FuelType</class>
+      <string>GAS</string>
+     </object>
+    </void>
+    <void property="make">
+     <string>1</string>
+    </void>
+    <void property="manager">
+     <object class="by.bsuir.autobase.entity.Manager">
+      <void property="name">
+       <string>1</string>
+      </void>
+      <void property="password">
+       <string>1</string>
+      </void>
+     </object>
+    </void>
+    <void property="model">
+     <string>1</string>
+    </void>
+    <void property="power">
+     <int>1</int>
+    </void>
+    <void property="price">
+     <double>1.0</double>
+    </void>
+    <void property="seatCount">
+     <int>1</int>
+    </void>
+    <void property="year">
+     <int>1</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="by.bsuir.autobase.entity.Car">
+    <void property="bodyType">
+     <object idref="BodyType0"/>
+    </void>
+    <void property="doorCount">
+     <int>1</int>
+    </void>
+    <void property="fuelConsumption">
+     <double>1.0</double>
+    </void>
+    <void property="fuelType">
+     <object idref="FuelType0"/>
+    </void>
+    <void property="make">
+     <string>1</string>
+    </void>
+    <void property="manager">
+     <object class="by.bsuir.autobase.entity.Manager">
+      <void property="name">
+       <string>1</string>
+      </void>
+      <void property="password">
+       <string>1</string>
+      </void>
+     </object>
+    </void>
+    <void property="model">
+     <string>1</string>
+    </void>
+    <void property="power">
+     <int>1</int>
+    </void>
+    <void property="price">
+     <double>1.0</double>
+    </void>
+    <void property="seatCount">
+     <int>1</int>
+    </void>
+    <void property="year">
+     <int>1</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="by.bsuir.autobase.entity.Car">
+    <void property="bodyType">
+     <object idref="BodyType0"/>
+    </void>
+    <void property="doorCount">
+     <int>1</int>
+    </void>
+    <void property="fuelConsumption">
+     <double>1.0</double>
+    </void>
+    <void property="fuelType">
+     <object idref="FuelType0"/>
+    </void>
+    <void property="make">
+     <string>1</string>
+    </void>
+    <void property="manager">
+     <object class="by.bsuir.autobase.entity.Manager">
+      <void property="name">
+       <string>qeq</string>
+      </void>
+      <void property="password">
+       <string>qeq</string>
+      </void>
+     </object>
+    </void>
+    <void property="model">
+     <string>1</string>
+    </void>
+    <void property="power">
+     <int>1</int>
+    </void>
+    <void property="price">
+     <double>1.0</double>
+    </void>
+    <void property="seatCount">
+     <int>1</int>
+    </void>
+    <void property="year">
+     <int>1</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="by.bsuir.autobase.entity.Car">
+    <void property="bodyType">
+     <object idref="BodyType0"/>
+    </void>
+    <void property="doorCount">
+     <int>1</int>
+    </void>
+    <void property="fuelConsumption">
+     <double>1.0</double>
+    </void>
+    <void property="fuelType">
+     <object idref="FuelType0"/>
+    </void>
+    <void property="make">
+     <string>1</string>
+    </void>
+    <void property="manager">
+     <object class="by.bsuir.autobase.entity.Manager">
+      <void property="name">
+       <string>1</string>
+      </void>
+      <void property="password">
+       <string>1</string>
+      </void>
+     </object>
+    </void>
+    <void property="model">
+     <string>1</string>
+    </void>
+    <void property="power">
+     <int>1</int>
+    </void>
+    <void property="price">
+     <double>1.0</double>
+    </void>
+    <void property="seatCount">
+     <int>1</int>
+    </void>
+    <void property="year">
+     <int>1</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="by.bsuir.autobase.entity.Car">
+    <void property="bodyType">
+     <object idref="BodyType0"/>
+    </void>
+    <void property="doorCount">
+     <int>1</int>
+    </void>
+    <void property="fuelConsumption">
+     <double>1.0</double>
+    </void>
+    <void property="fuelType">
+     <object idref="FuelType0"/>
+    </void>
+    <void property="make">
+     <string>1</string>
+    </void>
+    <void property="manager">
+     <object class="by.bsuir.autobase.entity.Manager">
+      <void property="name">
+       <string>1</string>
+      </void>
+      <void property="password">
+       <string>1</string>
+      </void>
+     </object>
+    </void>
+    <void property="model">
+     <string>1</string>
+    </void>
+    <void property="power">
+     <int>1</int>
+    </void>
+    <void property="price">
+     <double>1.0</double>
+    </void>
+    <void property="seatCount">
+     <int>1</int>
+    </void>
+    <void property="year">
+     <int>1</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="by.bsuir.autobase.entity.Car">
+    <void property="bodyType">
+     <object idref="BodyType0"/>
+    </void>
+    <void property="doorCount">
+     <int>1</int>
+    </void>
+    <void property="fuelConsumption">
+     <double>1.0</double>
+    </void>
+    <void property="fuelType">
+     <object idref="FuelType0"/>
+    </void>
+    <void property="make">
+     <string>1</string>
+    </void>
+    <void property="manager">
+     <object class="by.bsuir.autobase.entity.Manager">
+      <void property="name">
+       <string>1</string>
+      </void>
+      <void property="password">
+       <string>1</string>
+      </void>
+     </object>
+    </void>
+    <void property="model">
+     <string>1</string>
+    </void>
+    <void property="power">
+     <int>1</int>
+    </void>
+    <void property="price">
+     <double>1.0</double>
+    </void>
+    <void property="seatCount">
+     <int>1</int>
+    </void>
+    <void property="year">
+     <int>1</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="by.bsuir.autobase.entity.Car">
+    <void property="bodyType">
+     <object idref="BodyType0"/>
+    </void>
+    <void property="doorCount">
+     <int>1</int>
+    </void>
+    <void property="fuelConsumption">
+     <double>1.0</double>
+    </void>
+    <void property="fuelType">
+     <object idref="FuelType0"/>
+    </void>
+    <void property="make">
+     <string></string>
+    </void>
+    <void property="manager">
+     <object class="by.bsuir.autobase.entity.Manager">
+      <void property="name">
+       <string>1</string>
+      </void>
+      <void property="password">
+       <string>1</string>
+      </void>
+     </object>
+    </void>
+    <void property="model">
+     <string>1</string>
+    </void>
+    <void property="power">
+     <int>1</int>
+    </void>
+    <void property="price">
+     <double>1.0</double>
+    </void>
+    <void property="seatCount">
+     <int>1</int>
+    </void>
+    <void property="year">
+     <int>1</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="by.bsuir.autobase.entity.Truck">
+    <void property="capacity">
+     <int>2</int>
+    </void>
+    <void property="fuelConsumption">
+     <double>2.0</double>
+    </void>
+    <void property="fuelType">
+     <object class="java.lang.Enum" method="valueOf">
+      <class>by.bsuir.autobase.entity.FuelType</class>
+      <string>PETROL</string>
+     </object>
+    </void>
+    <void property="make">
+     <string>2</string>
+    </void>
+    <void property="manager">
+     <object class="by.bsuir.autobase.entity.Manager">
+      <void property="name">
+       <string>1</string>
+      </void>
+      <void property="password">
+       <string>1</string>
+      </void>
+     </object>
+    </void>
+    <void property="model">
+     <string>2</string>
+    </void>
+    <void property="power">
+     <int>2</int>
+    </void>
+    <void property="price">
+     <double>2.0</double>
+    </void>
+    <void property="truckCategory">
+     <object class="java.lang.Enum" method="valueOf">
+      <class>by.bsuir.autobase.entity.TruckCategory</class>
+      <string>LIGHT</string>
+     </object>
+    </void>
+    <void property="year">
+     <int>2</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="by.bsuir.autobase.entity.Car">
+    <void property="bodyType">
+     <object idref="BodyType0"/>
+    </void>
+    <void property="doorCount">
+     <int>1</int>
+    </void>
+    <void property="fuelConsumption">
+     <double>1.0</double>
+    </void>
+    <void property="fuelType">
+     <object idref="FuelType0"/>
+    </void>
+    <void property="make">
+     <string>1</string>
+    </void>
+    <void property="manager">
+     <object class="by.bsuir.autobase.entity.Manager">
+      <void property="name">
+       <string>1</string>
+      </void>
+      <void property="password">
+       <string>1</string>
+      </void>
+     </object>
+    </void>
+    <void property="model">
+     <string>1</string>
+    </void>
+    <void property="power">
+     <int>1</int>
+    </void>
+    <void property="price">
+     <double>1.0</double>
+    </void>
+    <void property="seatCount">
+     <int>1</int>
+    </void>
+    <void property="year">
+     <int>1</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="by.bsuir.autobase.entity.Car">
+    <void property="bodyType">
+     <object idref="BodyType0"/>
+    </void>
+    <void property="doorCount">
+     <int>1</int>
+    </void>
+    <void property="fuelConsumption">
+     <double>1.0</double>
+    </void>
+    <void property="fuelType">
+     <object idref="FuelType0"/>
+    </void>
+    <void property="make">
+     <string></string>
+    </void>
+    <void property="manager">
+     <object class="by.bsuir.autobase.entity.Manager">
+      <void property="name">
+       <string>1</string>
+      </void>
+      <void property="password">
+       <string>1</string>
+      </void>
+     </object>
+    </void>
+    <void property="model">
+     <string>1</string>
+    </void>
+    <void property="power">
+     <int>1</int>
+    </void>
+    <void property="price">
+     <double>1.0</double>
+    </void>
+    <void property="seatCount">
+     <int>1</int>
+    </void>
+    <void property="year">
+     <int>1</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="by.bsuir.autobase.entity.Car">
+    <void property="bodyType">
+     <object idref="BodyType0"/>
+    </void>
+    <void property="doorCount">
+     <int>1</int>
+    </void>
+    <void property="fuelConsumption">
+     <double>1.0</double>
+    </void>
+    <void property="fuelType">
+     <object idref="FuelType0"/>
+    </void>
+    <void property="make">
+     <string>1</string>
+    </void>
+    <void property="manager">
+     <object class="by.bsuir.autobase.entity.Manager">
+      <void property="name">
+       <string>1</string>
+      </void>
+      <void property="password">
+       <string>1</string>
+      </void>
+     </object>
+    </void>
+    <void property="model">
+     <string>1</string>
+    </void>
+    <void property="power">
+     <int>1</int>
+    </void>
+    <void property="price">
+     <double>1.0</double>
+    </void>
+    <void property="seatCount">
+     <int>1</int>
+    </void>
+    <void property="year">
+     <int>1</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="by.bsuir.autobase.entity.Car">
+    <void property="bodyType">
+     <object idref="BodyType0"/>
+    </void>
+    <void property="doorCount">
+     <int>1</int>
+    </void>
+    <void property="fuelConsumption">
+     <double>1.0</double>
+    </void>
+    <void property="fuelType">
+     <object idref="FuelType0"/>
+    </void>
+    <void property="make">
+     <string>1</string>
+    </void>
+    <void property="manager">
+     <object class="by.bsuir.autobase.entity.Manager">
+      <void property="name">
+       <string>1</string>
+      </void>
+      <void property="password">
+       <string>1</string>
+      </void>
+     </object>
+    </void>
+    <void property="model">
+     <string>1</string>
+    </void>
+    <void property="power">
+     <int>1</int>
+    </void>
+    <void property="price">
+     <double>1.0</double>
+    </void>
+    <void property="seatCount">
+     <int>1</int>
+    </void>
+    <void property="year">
+     <int>1</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="by.bsuir.autobase.entity.Car">
+    <void property="bodyType">
+     <object idref="BodyType0"/>
+    </void>
+    <void property="doorCount">
+     <int>1</int>
+    </void>
+    <void property="fuelConsumption">
+     <double>1.0</double>
+    </void>
+    <void property="fuelType">
+     <object idref="FuelType0"/>
+    </void>
+    <void property="make">
+     <string>1</string>
+    </void>
+    <void property="manager">
+     <object class="by.bsuir.autobase.entity.Manager">
+      <void property="name">
+       <string>1</string>
+      </void>
+      <void property="password">
+       <string>1</string>
       </void>
      </object>
     </void>

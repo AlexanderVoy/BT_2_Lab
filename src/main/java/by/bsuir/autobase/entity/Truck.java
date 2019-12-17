@@ -70,6 +70,8 @@ public class Truck extends Vehicle implements java.io.Serializable{
     public void setCapacity(int capacity) {
         this.capacity = capacity;
     }
+    
+
 
     @Override
     public String toString() {
